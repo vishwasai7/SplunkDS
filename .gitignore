@@ -1,0 +1,5 @@
+**/lookups/*
+!apps/search/lookups/my_important_lookup.csv
+etc/auth/
+etc/passwd
+
